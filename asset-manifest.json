@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.628b110a.chunk.js",
-    "main.js.map": "/static/js/main.628b110a.chunk.js.map",
+    "main.css": "/static/css/main.ed526dee.chunk.css",
+    "main.js": "/static/js/main.e2e917d6.chunk.js",
+    "main.js.map": "/static/js/main.e2e917d6.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.76a79ddf.js",
     "runtime~main.js.map": "/static/js/runtime~main.76a79ddf.js.map",
-    "static/js/2.37cd1d54.chunk.js": "/static/js/2.37cd1d54.chunk.js",
-    "static/js/2.37cd1d54.chunk.js.map": "/static/js/2.37cd1d54.chunk.js.map",
+    "static/js/2.5c470795.chunk.js": "/static/js/2.5c470795.chunk.js",
+    "static/js/2.5c470795.chunk.js.map": "/static/js/2.5c470795.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3df56f9693234c7e082b2204a057c8ab.js": "/precache-manifest.3df56f9693234c7e082b2204a057c8ab.js",
+    "precache-manifest.9bde4e5c0ca60626f56829077095aaef.js": "/precache-manifest.9bde4e5c0ca60626f56829077095aaef.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "static/css/main.ed526dee.chunk.css.map": "/static/css/main.ed526dee.chunk.css.map",
+    "static/media/2019 Angela Lam Resume.pdf": "/static/media/2019 Angela Lam Resume.7f09088f.pdf",
+    "static/media/about.svg": "/static/media/about.ff4ef2f5.svg",
+    "static/media/hobbies.svg": "/static/media/hobbies.d093b9e2.svg",
+    "static/media/projects.svg": "/static/media/projects.5a7b917c.svg",
+    "static/media/resume.svg": "/static/media/resume.bf18456c.svg"
   }
 }
